@@ -1,6 +1,8 @@
 # Diwali_sales_analysis
 Diwali Sales Analysis
-Author: Rishabh Mishra
+
+Author: Souma Adak
+Based on: Rishabh Mishra's Python Project for Diwali Sales Analysis
 Project: Diwali Sales Analysis
 
 Overview
