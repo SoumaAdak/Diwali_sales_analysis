@@ -4,14 +4,17 @@ Author: Rishabh Mishra
 Project: Diwali Sales Analysis
 
 Overview
+
 This project focuses on analyzing Diwali sales data to extract valuable insights into customer purchasing behavior, demographics, and sales trends. By applying data analytics techniques, the analysis helps uncover patterns that can be leveraged to optimize sales strategies during festive seasons.
 
 Objectives
+
 To identify the top-selling products during the Diwali season.
 To analyze customer demographics and their influence on purchasing behavior.
 To gain insights into sales trends and patterns across regions.
 To provide actionable recommendations for improving sales strategies.
 Dataset
+
 The dataset used in this project consists of sales data during the Diwali season, including attributes like:
 
 Customer ID: Unique identifier for each customer.
